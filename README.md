@@ -29,8 +29,8 @@ This game tracks your correct answers, and your wrong answers, and saves your hi
 get a question wrong you will lose 10 seconds! This was a challenge for me and really pushed my knowledge of what I 
 know and what I can do. I hope you enjoy it! 
 
-[Coding Quiz]()
-[Repository]()
+[Coding Quiz](https://joecliffordofficial.github.io/quiz_game_hw4/)
+[Repository](https://github.com/joecliffordofficial/quiz_game_hw4)
 
 <img src ="./assets/images/screenShot1.png">
 <img src ="./assets/images/screenShot2.png">
